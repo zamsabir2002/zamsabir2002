@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zamsabir2002
+- 👋 Hi, I’m Zameet
 - 👀 I’m interested in Data Science, AI and Cyber Security
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects related to my field of study
