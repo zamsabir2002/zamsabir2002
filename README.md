@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zameet
-- 👀 I’m interested in Data Science, AI and Cyber Security
-- 🌱 I’m currently learning Web Development
+- 🌱 I am a Software Engineer by profession
 - 💞️ I’m looking to collaborate on projects related to my field of study
 - 📫 Contact me through my email: sabirzameet2@gmail.com or through instagram @zameetsabir
 
